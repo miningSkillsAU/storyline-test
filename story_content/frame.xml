@@ -28,7 +28,7 @@
           <optionlist name="tabs">
             <listitems>
               <listitem name="resources" value="false" group="linkright" />
-              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="outline" value="false" group="sidebar" />
               <listitem name="glossary" value="false" group="sidebar" />
               <listitem name="transcript" value="false" group="sidebar" />
             </listitems>
@@ -1578,6 +1578,11 @@
             <slidelink slideid="_player.63CR0MV73Bt.64uIelkTcUz" displaytext="Game Over" expand="false" type="slide" />
           </links>
         </slidelink>
+        <slidelink slideid="_player.5jsDZZCkPH4" displaytext="Game Complete" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5jsDZZCkPH4.6DGqnRaHtB4" displaytext="Game Complete" expand="false" type="slide" />
+          </links>
+        </slidelink>
         <slidelink slideid="_player.5qnfOZBbsCB" displaytext="Animations" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5qnfOZBbsCB.6Dogpbn94eq" displaytext="Animation 01" expand="false" type="slide" />
@@ -1591,11 +1596,6 @@
             <slidelink slideid="_player.5dXGsmAbMpl.62MOG3oj2Kq" displaytext="Scenario 02" expand="false" type="slide" />
             <slidelink slideid="_player.5dXGsmAbMpl.6EiiX9KTVcG" displaytext="Scenario 03" expand="false" type="slide" />
             <slidelink slideid="_player.5dXGsmAbMpl.5VFr1QDvqPN" displaytext="Scenario 01" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.6CTIfceB8rt" displaytext="Untitled Scene" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.6CTIfceB8rt.6SbyAgHUuLA" displaytext="Draw from Scenarios" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
